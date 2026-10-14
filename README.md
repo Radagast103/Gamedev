@@ -1,6 +1,8 @@
 # Crumbly Machines (by Radagast103)
 [Code](https://github.com/Radagast103/Gamedev/tree/12203672265e89869150e2fab968d142c22265c8/.pde%20Files%20(Code))
 
+[minor Code Patches] (https://github.com/Radagast103/Gamedev/tree/880cd688c15ca17bcf5b10fe8346e5dc74bb5a36/Updated%20PDEs)
+
 [Assets](Assets)
 
 
